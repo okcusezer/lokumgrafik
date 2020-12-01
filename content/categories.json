@@ -31,46 +31,46 @@
       "icon": "🎭"
     },
     {
-      "slug": "trends",
-      "name": "Trends",
-      "description": "best trends tools",
-      "icon": "📈"
+      "slug": "powerpoint-sablon",
+      "name": "Powerpoint Şablonları",
+      "description": "tane site arasından powerpoint sunumlarınız için harika görseller hazırlayın.",
+      "icon": "💼"
     },
     {
-      "slug": "ideas",
-      "name": "Ideas",
-      "description": "best idea generation tools",
-      "icon": "💡"
+      "slug": "kodlama",
+      "name": "Kodlama",
+      "description": "tane site arasından kodlamaya yardımcı siteleri bulun.",
+      "icon": "📋"
     },
     {
-      "slug": "design",
-      "name": "Design",
-      "description": "best designs tools",
-      "icon": "🎨"
+      "slug": "olusturucu",
+      "name": "Oluşturucu",
+      "description": "tane site içerisinde css, renkler, degradeler ve ızgaralar için en iyi ücretsiz oluşturucu araçları bulun.",
+      "icon": "⚗️"
     },
     {
-      "slug": "well-being",
-      "name": "Well-being",
-      "description": "best well-being tools",
-      "icon": "🍀"
+      "slug": "ikon",
+      "name": "İkon",
+      "description": "site arasından tasarımlarınızda kullanabileceğiniz ikonları bulun.",
+      "icon": "💠"
     },
     {
-      "slug": "books",
-      "name": "Books",
-      "description": "best books",
-      "icon": "📚"
+      "slug": "animasyon",
+      "name": "Animasyon",
+      "description": "tane site arasından animasyon ile ilgili yararlı kaynakları bulun.",
+      "icon": "⚡"
     },
     {
-      "slug": "food",
-      "name": "Food",
-      "description": "best resources for food lovers",
-      "icon": "🥑"
+      "slug": "vektorel",
+      "name": "Vektörel",
+      "description": "tane site içinde açılış sayfalarınız, sunumlarınız veya uygulamalarınız için ücretsiz kaynakları bulun.",
+      "icon": "️🖼️"
     },
     {
-      "slug": "learning",
-      "name": "Learning",
-      "description": "best learning tools",
-      "icon": "🎓"
+      "slug": "arkaplan",
+      "name": "Arkaplan",
+      "description": "tane site içerisinde tasarımlarınızda, websitenizde kolayca kullanabileceğiniz görseller arasından dilediğinizi seçin.",
+      "icon": "🌄"
     }
   ]
 }
