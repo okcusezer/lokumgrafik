@@ -2,23 +2,12 @@
   "links": [
     {
       "categories_slugs": [
-        "open-source",
-        "productivity",
-        "design",
-        "finance",
-        "ideas",
-        "trends",
-        "communication",
-        "well-being",
-        "books",
-        "food",
-        "learning",
-        "cryptocurrency"
+        "ilham-kaynaklari"
       ],
       "name": "dedede",
-      "description": "deneme",
-      "url": "https://github.com/sandoche/CuratedStack-nocode-template",
-      "icon": "/images/logos/icon.png"
+      "description": "Global tasarımcıların yapmış oldukları tasarımlara göz atın.",
+      "url": "https://www.behance.net/",
+      "icon": "/images/logos/behance.svg"
     },
     {
       "categories_slugs": [
