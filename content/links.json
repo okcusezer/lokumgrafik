@@ -11,14 +11,12 @@
     },
     {
       "categories_slugs": [
-        "books",
-        "food",
-        "well-being"
+        "ilham-kaynaklari"
       ],
-      "name": "Tradivegan",
-      "description": "Traditional authentic vegan recipes from all around the world",
-      "url": "https://tradivegan.com/",
-      "icon": "/images/logos/tradivegan.png"
+      "name": "CollectUI",
+      "description": "Günlük olarak güncellenen tasarım ilham kaynaklı görselleri inceleyebilirsiniz.",
+      "url": "https://collectui.com/",
+      "icon": "/images/logos/collectui.png"
     },
     {
       "categories_slugs": [
