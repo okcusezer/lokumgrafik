@@ -71,6 +71,12 @@
       "name": "Arkaplan",
       "description": "tane site içerisinde tasarımlarınızda, websitenizde kolayca kullanabileceğiniz görseller arasından dilediğinizi seçin.",
       "icon": "🌄"
+    },
+    {
+      "slug": "desenler",
+      "name": "Desenler",
+      "description": "adet site içerisinde tasarımlarınızda kullanabileceğiniz desenleri oluşturabileceğiniz ve indirebileceğiniz siteler arasından dilediğinizi bulun.",
+      "icon": "⚜️"
     }
   ]
 }
