@@ -1,28 +1,28 @@
 {
-  "title": "CuratedStack (No-Code) Template",
-  "description": "Build a curated directory of websites without or with code",
+  "title": "Tasarımcının Alet Çantası",
+  "description": "Tasarımlarınızda kullanabileceğiniz kaynakları bulabilirsiniz.",
   "tools": {
-    "title": "Tools & Resources",
-    "description": "Find the tool you need in each category"
+    "title": "Araçlar & Kaynaklar",
+    "description": "Her kategoride ihtiyacınız olan aracı bulun"
   },
   "footer": {
-    "title": "Any tool to suggest?",
-    "description": "Any idea? Any amazing tool forgotten? Feel free to send it!",
-    "copyright": "Made with ❤️ in Europe 🇪🇺 by ",
+    "title": "Önermek istediğiniz bir site varmı ?",
+    "description": "Fikirlerine İhtiyacımız var! Önereceğiniz siteleri göndermeyi unutmayın.",
+    "copyright": "Grafik Tasarımı Seviyorum ❤️ Türk Yapımı 🇹🇷",
     "author": {
-      "name": "Sandoche",
-      "website": "https://www.sandoche.com"
+      "name": "Sezer",
+      "website": "https://www.instagram.com/lokumgrafik"
     }
   },
   "buttons": {
     "navigation": {
-      "back": "Back"
+      "back": "Geri"
     },
     "footer": {
-      "contact": "Contact"
+      "contact": "İletişim"
     }
   },
   "lunr-module": {
-    "placeholderText": "Search..."
+    "placeholderText": "Sitede ara..."
   }
 }
