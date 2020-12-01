@@ -1,34 +1,34 @@
 {
   "categories": [
     {
-      "slug": "open-source",
-      "name": "Ana Siteler",
-      "description": "En iyi seçilmiş siteler burada toprlanmıştır.",
-      "icon": "🔨"
+      "slug": "ilham-kaynaklari",
+      "name": "İlham Kaynakları",
+      "description": "tane site arasından tasarımlarınıza başlamadan önce ilham alabilirsiniz.",
+      "icon": "💡"
     },
     {
-      "slug": "productivity",
-      "name": "Productivity",
-      "description": "best free productivity tools",
-      "icon": "⌚"
+      "slug": "renk",
+      "name": "Renk",
+      "description": " tane tasarımlarınızda kullanacağınız renk paletini bulmak için ücretsiz renk araçları",
+      "icon": "🎨"
     },
     {
-      "slug": "communication",
-      "name": "Communication",
-      "description": "best communication tools",
-      "icon": "💬"
+      "slug": "tipografi",
+      "name": "Tipografi",
+      "description": " tane tasarımlarınızda kullanacağınız ücretsiz font bulacağınız siteler",
+      "icon": "🔤"
     },
     {
-      "slug": "finance",
-      "name": "Finance",
-      "description": "best finance tools",
-      "icon": "💰"
+      "slug": "logo",
+      "name": "Logo",
+      "description": "tane site arasından logo tasarımlarınıza yardımcı olacak görseller",
+      "icon": "🏷️"
     },
     {
-      "slug": "cryptocurrency",
-      "name": "Cryptocurrency",
-      "description": "best cryptocurrency tools",
-      "icon": "₿"
+      "slug": "web-tasarim",
+      "name": "Website Tema",
+      "description": "tane seçenek arasından kullanacağınız platformu seçip size uygun temaları seçin",
+      "icon": "🎭"
     },
     {
       "slug": "trends",
