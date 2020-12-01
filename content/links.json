@@ -15,8 +15,8 @@
         "learning",
         "cryptocurrency"
       ],
-      "name": "Get Started with CuratedStack (No-Code) Template",
-      "description": "Create for free your own curated collection of websites for free",
+      "name": "dedede",
+      "description": "deneme",
       "url": "https://github.com/sandoche/CuratedStack-nocode-template",
       "icon": "/images/logos/icon.png"
     },
@@ -57,14 +57,6 @@
       "description": "Collection of free design tools and resources for makers, developers and designers",
       "url": "https://undesign.learn.uno/",
       "icon": "/images/logos/undesign.png"
-    },
-    {
-      "categories_slugs": [
-        "open-source"
-      ],
-      "name": "Mobile App Landing Page Template",
-      "description": "📱 Free to use static generated landing page template for your mobile app",
-      "url": "https://github.com/sandoche/Mobile-app-landingpage-template"
     },
     {
       "categories_slugs": [
@@ -207,14 +199,6 @@
       "description": "Get Gmail snoozed emails directly to Evernote",
       "url": "https://snoozever.kanbanote.com/",
       "icon": "/images/logos/snoozever.png"
-    },
-    {
-      "categories_slugs": [
-        "open-source"
-      ],
-      "name": "Jekyll-webpack-boilerplate",
-      "description": "A Jekyll boilerplate supercharged with Webpack to build modern performant websites (including Progressive Web Apps)",
-      "url": "https://github.com/sandoche/Jekyll-webpack-boilerplate"
     },
     {
       "categories_slugs": [
