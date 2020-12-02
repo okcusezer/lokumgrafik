@@ -6,7 +6,7 @@
       ],
       "name": "Behance",
       "description": "Global tasarımcıların yapmış oldukları tasarımlara göz atın.",
-      "url": "https://www.behance.net/",
+      "url": "https://www.behance.net",
       "icon": "/images/logos/behance.svg"
     },
     {
@@ -15,7 +15,7 @@
       ],
       "name": "CollectUI",
       "description": "Günlük olarak güncellenen tasarım ilham kaynaklı görselleri inceleyebilirsiniz.",
-      "url": "https://collectui.com/",
+      "url": "https://collectui.com",
       "icon": "/images/logos/collectui.png"
     },
     {
@@ -24,8 +24,53 @@
       ],
       "name": "Dribbble",
       "description": "Dribbble, yaratıcı çalışmaları bulmak ve sergilemek ve dünyanın en iyi tasarım profesyonellerine ev sahipliği yapmak için önde gelen websitesidir.",
-      "url": "https://dribbble.com/",
+      "url": "https://dribbble.com",
       "icon": "/images/logos/dribbble.svg"
+    },
+    {
+      "description": "Global olarak çalışmalarını sürdüren tasarımcıların ödül almış olduğu ve hali hazırda tasarımlarının sergilendiği arayüzdür.",
+      "name": "Awwwards",
+      "url": "https://www.awwwards.com",
+      "icon": "/images/logos/awwwards.png",
+      "categories_slugs": [
+        "ilham-kaynaklari"
+      ]
+    },
+    {
+      "url": "https://onepagelove.com",
+      "name": "One Page Love",
+      "description": "Tek sayfa web tasarımları inceleyerek ilham alın.",
+      "icon": "/images/logos/onepagelove.png",
+      "categories_slugs": [
+        "ilham-kaynaklari"
+      ]
+    },
+    {
+      "description": "UI&UX Tasarımlarından ilham alabileceğiniz site.",
+      "categories_slugs": [
+        "ilham-kaynaklari"
+      ],
+      "name": "UI Movement",
+      "url": "https://screenlane.com",
+      "icon": "/images/logos/uimovement.png"
+    },
+    {
+      "categories_slugs": [
+        "ilham-kaynaklari"
+      ],
+      "description": "İOS Uygulama mağazasında kullanılan iconları bulabilirsiniz.",
+      "name": "iOS Icon Gallery",
+      "url": "https://www.iosicongallery.com",
+      "icon": "/images/logos/iosicon.png"
+    },
+    {
+      "categories_slugs": [
+        "ilham-kaynaklari"
+      ],
+      "description": "E-mail tasarımlarından ilham alabileceğiniz site.",
+      "name": "Email Love",
+      "url": "https://emaillove.com",
+      "icon": "/images/logos/emaillove.png"
     }
   ]
 }
