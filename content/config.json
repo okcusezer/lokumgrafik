@@ -7,7 +7,7 @@
   "hostname": "https://curatedstacktemplate.learn.uno/",
   "icon": "/images/logos/icon.png",
   "floatingPrompt": {
-    "width": "250px",
+    "width": "400px",
     "left": "unset",
     "bottom": "112px",
     "name": "Nasıl ?",
