@@ -137,6 +137,12 @@
       "name": "Odaklan",
       "description": "tane site içerisinde işlerinizde odaklanmak için bulunan görsel ve işitsel kaynakları bulun.",
       "icon": "🔦"
+    },
+    {
+      "slug": "ogren",
+      "name": "Öğren",
+      "description": "tane site içinde eğitim ile alakalı kaynaklardan dilediğinizi bulun.",
+      "icon": "📖"
     }
   ]
 }
