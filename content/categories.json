@@ -125,6 +125,12 @@
       "name": "Tarayıcı Eklentileri",
       "description": "tane site içinde tarayıcı üzerinde kullanabileceğiniz görsel ve yazılımsal kaynakları bulun.",
       "icon": "🌐"
+    },
+    {
+      "slug": "kontrol-listesi",
+      "name": "Kontrol Listeleri",
+      "description": "tane site içerisinde tasarımınızı ve yazılım olarak tasarladığınız işlerde kontrol etmek için kullanabileceğiniz kaynakları bulun.",
+      "icon": "✅"
     }
   ]
 }
