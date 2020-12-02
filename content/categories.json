@@ -77,6 +77,54 @@
       "name": "Desenler",
       "description": "adet site içerisinde tasarımlarınızda kullanabileceğiniz desenleri oluşturabileceğiniz ve indirebileceğiniz siteler arasından dilediğinizi bulun.",
       "icon": "⚜️"
+    },
+    {
+      "slug": "fotograf",
+      "name": "Fotoğraf",
+      "description": "tane site içerisinde tasarımınızda kullanabileceğiniz telifsiz görselleri bulun.",
+      "icon": "📷"
+    },
+    {
+      "slug": "video",
+      "name": "Video",
+      "description": "tane site içerisinde video oluşturmanız için gereken tüm kaynakları bulun",
+      "icon": "🎞️"
+    },
+    {
+      "slug": "ses",
+      "name": "Ses",
+      "description": "tane site içerisinde telifsiz müziklere ve ses tonlarını bulun.",
+      "icon": "🎵"
+    },
+    {
+      "slug": "mockup",
+      "name": "Mockup",
+      "description": "tane site içinde tasarımınızda kullanacağınız görsellerinizi üç boyutlu olarak gerçekçi efektleri bulun.",
+      "icon": "✒️"
+    },
+    {
+      "slug": "tasarim-desenleri",
+      "name": "Tasarım Desenleri",
+      "description": "tane kaynak içerisinde tasarımlarınızda kullanabileceğiniz kaynakları bulun.",
+      "icon": "📐"
+    },
+    {
+      "slug": "covid-19",
+      "name": "Covid-19",
+      "description": "tane site içinde Covid-19 ile alakalı tasarım ve yazılım ile alakalı kaynakları bulun.",
+      "icon": "😷"
+    },
+    {
+      "slug": "araclar",
+      "name": "Araçlar",
+      "description": "tane site içinde tasarımlarınızda kullanabileceğiniz araçları bulun.",
+      "icon": "🔨"
+    },
+    {
+      "slug": "tarayici-eklentileri",
+      "name": "Tarayıcı Eklentileri",
+      "description": "tane site içinde tarayıcı üzerinde kullanabileceğiniz görsel ve yazılımsal kaynakları bulun.",
+      "icon": "🌐"
     }
   ]
 }
