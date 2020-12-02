@@ -131,6 +131,12 @@
       "name": "Kontrol Listeleri",
       "description": "tane site içerisinde tasarımınızı ve yazılım olarak tasarladığınız işlerde kontrol etmek için kullanabileceğiniz kaynakları bulun.",
       "icon": "✅"
+    },
+    {
+      "slug": "odaklan",
+      "name": "Odaklan",
+      "description": "tane site içerisinde işlerinizde odaklanmak için bulunan görsel ve işitsel kaynakları bulun.",
+      "icon": "🔦"
     }
   ]
 }
