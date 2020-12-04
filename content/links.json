@@ -71,6 +71,33 @@
       "name": "Email Love",
       "url": "https://emaillove.com",
       "icon": "/images/logos/emaillove.png"
+    },
+    {
+      "url": "https://colorhunt.co/",
+      "description": "Binlerce modaya uygun, elle seçilmiş renk paleti ile renk ilhamı için ücretsiz ve açık bir platformdur.",
+      "name": "Color Hunt",
+      "icon": "/images/logos/color-hunt-palettes-logo.png",
+      "categories_slugs": [
+        "renk"
+      ]
+    },
+    {
+      "description": "CSS Gradient, web siteleri için gradyan arka planı oluşturmanıza izin veren küçük bir web sitesi ve ücretsiz bir araçtır.",
+      "name": "CSS Gradient",
+      "url": "https://cssgradient.io/",
+      "icon": "/images/logos/logo-55c31c59.svg",
+      "categories_slugs": [
+        "renk"
+      ]
+    },
+    {
+      "name": "Picular",
+      "url": "https://picular.co/",
+      "description": "Aradığınız ürüne göre size renk seçenekleri sunmaktadır. Kolay ve ücretsiz bir araçtır.",
+      "icon": "/images/logos/picular.png",
+      "categories_slugs": [
+        "renk"
+      ]
     }
   ]
 }
