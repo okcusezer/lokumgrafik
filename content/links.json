@@ -269,6 +269,96 @@
       "categories_slugs": [
         "kodlama"
       ]
+    },
+    {
+      "description": "Dünya çapında kullanılan kodlama üzerine kurulmuş kodlama kütüphanesi ve kod örneklerini bulabilirsiniz.",
+      "url": "https://codepen.io/",
+      "name": "Codepen",
+      "icon": "/images/logos/codepen.png",
+      "categories_slugs": [
+        "kodlama"
+      ]
+    },
+    {
+      "url": "https://cssfx.netlify.app/",
+      "name": "CSSFX",
+      "description": "Kullanacağınız buton ve benzeri yerler için efektler ekleyebilirsiniz.",
+      "icon": "/images/logos/cssfx.png",
+      "categories_slugs": [
+        "kodlama"
+      ]
+    },
+    {
+      "url": "https://useanimations.com/",
+      "name": "Use Animations",
+      "description": "Sitenizde kullanacağınız yazılara, butonlara ve linklere özel efektler bulabilirsiniz.",
+      "icon": "/images/logos/use-animations.png",
+      "categories_slugs": [
+        "kodlama"
+      ]
+    },
+    {
+      "url": "https://bansal.io/pattern-css",
+      "name": "Pattern Css",
+      "description": "Sayfalarınızda arkaplan ve yazı gibi alanlarda kullanabileceğiniz hazır desenleri bulabilirsiniz.",
+      "icon": "/images/logos/p-logo.png",
+      "categories_slugs": [
+        "kodlama"
+      ]
+    },
+    {
+      "url": "https://www.blobmaker.app/",
+      "name": "Blobmaker",
+      "description": "Organik şekiller oluşturup .svg olarak indirip tasarımlarınızda kullanabilirsiniz.",
+      "icon": "/images/logos/blobmaker.png",
+      "categories_slugs": [
+        "kodlama"
+      ]
+    },
+    {
+      "url": "https://replacecover.com/",
+      "name": "Replace Cover",
+      "description": "Sosyal medya gönderileriniz için hazır tasarımlar bulunmaktadır. Size sadece üzerindeki yazıları değiştirmek kalıyor.",
+      "icon": "/images/logos/replacecover.png",
+      "categories_slugs": [
+        "olusturucu"
+      ]
+    },
+    {
+      "url": "https://personas.draftbit.com/",
+      "name": "Avatar Generator",
+      "description": "Profil resimleri oluşturmak için birebir kaynak. Size uygun seçenekleri seçin size görseli çıkartacaktır.",
+      "icon": "/images/logos/avatargenerator.png",
+      "categories_slugs": [
+        "olusturucu"
+      ]
+    },
+    {
+      "url": "https://getwaves.io/",
+      "name": "Get Waves",
+      "description": "Tasarımlarınızda veya sitelerinizde kullanabileceğiniz dalga şekilleri oluşturun.",
+      "icon": "/images/logos/getwaves.png",
+      "categories_slugs": [
+        "olusturucu"
+      ]
+    },
+    {
+      "url": "https://svgartista.net/",
+      "name": "SVG Artista",
+      "description": "Tasarımlarınızı, logolarınızı animasyona çeviren uygulama",
+      "icon": "/images/logos/svgartista.png",
+      "categories_slugs": [
+        "olusturucu"
+      ]
+    },
+    {
+      "url": "https://victorribeiro.com/isocity/",
+      "description": "3D olarak harita oluşturabileceğiniz minik bir uygulama",
+      "name": "IsoCity",
+      "icon": "/images/logos/isocity.png",
+      "categories_slugs": [
+        "olusturucu"
+      ]
     }
   ]
 }
