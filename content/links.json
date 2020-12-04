@@ -359,6 +359,96 @@
       "categories_slugs": [
         "olusturucu"
       ]
+    },
+    {
+      "url": "https://blobs.app/",
+      "name": "Blobs",
+      "description": "Tasarımlarınızda ve sitlerinizde kullanabileceğiniz özel şekil oluşturucu bir uygulamadır.",
+      "icon": "/images/logos/blobgenerator.png",
+      "categories_slugs": [
+        "olusturucu"
+      ]
+    },
+    {
+      "url": "https://3dbook.xyz/",
+      "name": "3D Book",
+      "description": "Kitaplarınızın kapaklarını 3D olarak görüntülemek istiyorsanız bu site tam size göre.",
+      "icon": "/images/logos/3dbooks.png",
+      "categories_slugs": [
+        "olusturucu"
+      ]
+    },
+    {
+      "url": "https://sombras.app/?a=Z__NNN&b=Zzznnn&A=ff184c&B=ffac00",
+      "icon": "/images/logos/unnamed.png",
+      "name": "Sombras",
+      "description": "Persfektif kavramını kullanarak tasarımlarınıza farklı havalar katabilir ve indirebilirsiniz.",
+      "categories_slugs": [
+        "olusturucu"
+      ]
+    },
+    {
+      "url": "https://bgjar.com/",
+      "description": "Şekiller ve arkaplanları oluşturup vektörel .svg formatında indirebilirsiniz.",
+      "name": "BGjar",
+      "icon": "/images/logos/bgjar.png",
+      "categories_slugs": [
+        "olusturucu"
+      ]
+    },
+    {
+      "name": "SVG İcons Sparkk",
+      "url": "https://thenounproject.com/",
+      "description": "Tasarımlarınız için ikonları arayarak kolayca bulun.",
+      "icon": "/images/logos/sparkk.png",
+      "categories_slugs": [
+        "ikon"
+      ]
+    },
+    {
+      "url": "https://iconsvg.xyz/",
+      "name": "Icon SVG",
+      "description": "Sitelerinizde kullanabileceğiniz ikonları bu siteden temin edebilirsiniz.",
+      "icon": "/images/logos/nounproject.png",
+      "categories_slugs": [
+        "ikon"
+      ]
+    },
+    {
+      "url": "https://icons8.com/icons",
+      "name": "Icons8",
+      "description": "Tasarımlarınızda kullanmak için ikonlar bulabilirsiniz.",
+      "icon": "/images/logos/icons8.png",
+      "categories_slugs": [
+        "ikon"
+      ]
+    },
+    {
+      "url": "https://www.flaticon.com/",
+      "name": "Flat Icon",
+      "description": "Sayfalarınızda ve oluşturduğunuz tasarımlarınızda kullanabileceğiniz ikonları bulabilirsiniz.",
+      "icon": "/images/logos/flaticon.png",
+      "categories_slugs": [
+        "ikon"
+      ]
+    },
+    {
+      "url": "http://www.evericons.com/",
+      "name": "Evericons",
+      "icon": "/images/logos/evericons.png",
+      "description": "Uygulama ve Sayfa UI tasarımlarınızda kullanabileceğiniz ikonları bulabilirsiniz.",
+      "categories_slugs": [
+        "ikon"
+      ]
+    },
+    {
+      "url": "https://www.iconshock.com/svg-icons/",
+      "name": "Icon Shock",
+      "description": "Degrade olarak hazırlanmış ve kendizin oluşturabileceği güzel bir kaynak.",
+      "icon": "/images/logos/gradient.png",
+      "categories_slugs": [
+        "ikon"
+      ]
     }
   ]
 }
