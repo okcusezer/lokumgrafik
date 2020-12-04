@@ -98,6 +98,51 @@
       "categories_slugs": [
         "renk"
       ]
+    },
+    {
+      "url": "https://color.adobe.com/tr/create/color-wheel",
+      "name": "Adobe Color CC",
+      "description": "Adobe CC'nin bize sunmuş olduğu renk paleti ile seçmiş olduğunuz renklere göre yanına yakışacak renkleri bulmaktadır. Eski adıyla Kuler olarak geçmektedir.",
+      "categories_slugs": [
+        "renk"
+      ],
+      "icon": "/images/logos/adobe.png"
+    },
+    {
+      "url": "https://coolors.co/palettes/trending",
+      "name": "Coolors",
+      "description": "Kullanıcıların oluşturmuş olduğu renk paletlerinden size uygun olanı kopyalayıp tasarımlarınızda kullanabilirsiniz.",
+      "icon": "/images/logos/coolors.png",
+      "categories_slugs": [
+        "renk"
+      ]
+    },
+    {
+      "url": "https://flatuicolors.com/",
+      "name": "Flat UI Colors",
+      "description": "Dünya çapında oluşturulmuş grafikerler tarafından sıkça kullanılan renk paletidir.",
+      "icon": "/images/logos/flatui.png",
+      "categories_slugs": [
+        "renk"
+      ]
+    },
+    {
+      "url": "https://brandcolors.net/",
+      "name": "Brand Colors",
+      "description": "Markaların kullanmış olduğu renklerin tek tek hazırlanmış halini ücretsiz olarak ulaşabilirsiniz.",
+      "icon": "/images/logos/brandcolors.png",
+      "categories_slugs": [
+        "renk"
+      ]
+    },
+    {
+      "url": "https://colorsinspo.com/freebies",
+      "name": "Colorspinspo",
+      "description": "Ücretsiz sayfası bulunan bu sitede degradeli, tek düz renkli ve desenli renklere ulaşabilir. İndirip tasarımlarınızda kullanabilirsiniz.",
+      "icon": "/images/logos/colorsinspo.png",
+      "categories_slugs": [
+        "renk"
+      ]
     }
   ]
 }
