@@ -143,6 +143,132 @@
       "categories_slugs": [
         "renk"
       ]
+    },
+    {
+      "description": "Google üzerinde kullanılan ve kullanıcılarına ücretsiz olarak sunduğu ücretsiz yazı tipi paylaşım platformudur.",
+      "url": "https://fonts.google.com/",
+      "name": "Google Font",
+      "icon": "/images/logos/google-fonts.png",
+      "categories_slugs": [
+        "tipografi"
+      ]
+    },
+    {
+      "description": "Tasarımlarınızda kullanabileceğiniz ücretsiz yazı tiplerine ulaşım sağlayabilirsiniz. Bazı fontlarda türkçe dil desteği bulunmaktadır.",
+      "url": "https://www.dafont.com/",
+      "name": "DaFont",
+      "icon": "/images/logos/dafont.png",
+      "categories_slugs": [
+        "tipografi"
+      ]
+    },
+    {
+      "url": "http://www.abstractfonts.com/",
+      "name": "Abstract Fonts",
+      "description": "Tasarımlarınızda farklı yazı tipleri kullanmak istiyorsanız bu sayfa tam size göre..",
+      "icon": "/images/logos/abstract-fonts.png",
+      "categories_slugs": [
+        "tipografi"
+      ]
+    },
+    {
+      "url": "https://www.downloadfonts.io/",
+      "name": "Download Fonts",
+      "description": "Hergün güncellenen font arşivinden tasarımlarınızda kullanabileceğiniz yazı tiplerine ulaşın.",
+      "icon": "/images/logos/ekran-resmi-2020-12-04-22.19.34.png",
+      "categories_slugs": [
+        "tipografi"
+      ]
+    },
+    {
+      "name": "Font Tr",
+      "description": "Türkçe olarak hizmet veren bu sitede ücretsiz olarak bir çok türkçe dil destekli yazı tiplerine ulaşabilirsiniz.",
+      "url": "https://www.fonttr.com/",
+      "icon": "/images/logos/tr.png",
+      "categories_slugs": [
+        "tipografi"
+      ]
+    },
+    {
+      "url": "http://www.logobook.com/",
+      "name": "Logo Book",
+      "description": "İlham almak için dünyanın en iyi logolarını, sembollerini ve ticari markalarını keşfedin.",
+      "icon": "/images/logos/llogo.png",
+      "categories_slugs": [
+        "logo"
+      ]
+    },
+    {
+      "url": "https://logo.black/",
+      "name": "Logo Black",
+      "description": "Tasarımlarınızda veya ürünlerinizde kullanabileceğiniz logoları vektörel olarak indirebilirsiniz.",
+      "icon": "/images/logos/logosl.png",
+      "categories_slugs": [
+        "logo"
+      ]
+    },
+    {
+      "url": "https://cruip.com/free-templates/",
+      "description": "Tek sayfalık HTML sayfalarını ücretsiz olarak indirebilirsiniz.",
+      "name": "Cruip",
+      "icon": "/images/logos/cruip.png",
+      "categories_slugs": [
+        "web-tasarim"
+      ]
+    },
+    {
+      "url": "https://onepagelove.com/",
+      "name": "One Page Love",
+      "description": "Tek sayfalık HTML tasarımlardan ilham alabileceğiniz websiteleri",
+      "icon": "/images/logos/onepagelove.png",
+      "categories_slugs": [
+        "web-tasarim"
+      ]
+    },
+    {
+      "url": "https://html5up.net/",
+      "description": "Ücretsiz olarak indirebileceğiniz HTML5 sayfalara ulaşabilirsiniz.",
+      "name": "HTML5 Up",
+      "icon": "/images/logos/html5up.png",
+      "categories_slugs": [
+        "web-tasarim"
+      ]
+    },
+    {
+      "url": "https://glide.slidor.fr/",
+      "name": "Glide",
+      "description": "Yeni nesil olarak hazırlanmış sunumlarınıza ekstra hava katacak mükemmel şablonları kullanabilirsiniz.",
+      "icon": "/images/logos/glide.png",
+      "categories_slugs": [
+        "powerpoint-sablon"
+      ]
+    },
+    {
+      "categories_slugs": [
+        "powerpoint-sablon"
+      ],
+      "url": "https://slidesgo.com/",
+      "description": "Sunumlarınızda kullanabileceğiniz tasarımları bulabilirsiniz.",
+      "name": "SlidesGo",
+      "icon": "/images/logos/slidesgo.png"
+    },
+    {
+      "url": "http://kamranahmed.info/brusher/",
+      "name": "Brusher",
+      "description": "Site arkaplanında kullanabileceğiniz bir efekti kendinize göre özelleştirin.",
+      "icon": "/images/logos/brusher.svg",
+      "categories_slugs": [
+        "kodlama"
+      ]
+    },
+    {
+      "url": "https://emilkowalski.github.io/css-effects-snippets/",
+      "description": "Sitenizde kullanabileceğiniz buton gibi kodlama ile uğraşmayacağınız içerikleri hazır olarak alabilirsiniz.",
+      "name": "CSSeffectsSnippets",
+      "icon": "/images/logos/ekran-resmi-2020-12-04-22.56.39.png",
+      "categories_slugs": [
+        "kodlama"
+      ]
     }
   ]
 }
