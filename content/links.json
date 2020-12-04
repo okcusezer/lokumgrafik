@@ -449,6 +449,96 @@
       "categories_slugs": [
         "ikon"
       ]
+    },
+    {
+      "url": "https://www.iconfinder.com/",
+      "name": "Icon Finder",
+      "description": "Arama çubuğunu kullanarak kullanmak istediğiniz ikonları bulup indirebilirsiniz.",
+      "icon": "/images/logos/iconfinder.png",
+      "categories_slugs": [
+        "ikon"
+      ]
+    },
+    {
+      "url": "https://tetrisly.com/freebies/#icons",
+      "name": "Tetrisly",
+      "description": "UI Uygulama tasarımlarınızda kullanabileceğiniz ikonlar",
+      "categories_slugs": [
+        "ikon"
+      ],
+      "icon": "/images/logos/tetrisly.png"
+    },
+    {
+      "url": "https://www.visiwig.com/icons/",
+      "name": "Visiwig",
+      "description": "Tasarımlarda ve Uygulama tasarımlarınızda kullanabileceğiniz ikonlar",
+      "icon": "/images/logos/visiwig.png",
+      "categories_slugs": [
+        "ikon"
+      ]
+    },
+    {
+      "url": "https://akveo.github.io/eva-icons/#/",
+      "name": "Eva Icons",
+      "description": "UI tasarımlarınızda kullanmak için farklı bir kaynak",
+      "icon": "/images/logos/evaicon.png",
+      "categories_slugs": [
+        "ikon"
+      ]
+    },
+    {
+      "url": "https://feathericons.com/",
+      "icon": "/images/logos/feathericons.png",
+      "name": "Feathericons",
+      "description": "Uygulama tasarımlarınızda kullanmak için farklı bir site.",
+      "categories_slugs": [
+        "ikon"
+      ]
+    },
+    {
+      "url": "http://potlabicons.com/",
+      "name": "Potlab Icons",
+      "description": "Sitelerinizde kullanmak üzere haraketli ikonlara ulaşabilirsiniz.",
+      "icon": "/images/logos/potlab.png",
+      "categories_slugs": [
+        "animasyon"
+      ]
+    },
+    {
+      "url": "https://cliply.co/clips/",
+      "name": "Cliply",
+      "description": "Sitenizde veya sosyal medyalarınızda kullanmak için güzel bir kaynak",
+      "icon": "/images/logos/cliply.png",
+      "categories_slugs": [
+        "animasyon"
+      ]
+    },
+    {
+      "url": "https://icons8.com/animated-icons",
+      "name": "İcon8",
+      "description": "Sitenizde veya sosyal medya hesaplarınızda kullanmak üzere hazırlanmış hareketli görselleri bulabilirsiniz.",
+      "icon": "/images/logos/icons8.png",
+      "categories_slugs": [
+        "animasyon"
+      ]
+    },
+    {
+      "url": "https://vector.me/",
+      "name": "Vector",
+      "description": "Tasarımlarınızı daha hızlı hazırlayabilmek için vektorel tasarımları bulabilirsiniz.",
+      "categories_slugs": [
+        "vektorel"
+      ],
+      "icon": "/images/logos/1024px-v-logo.svg.png"
+    },
+    {
+      "url": "https://www.vexels.com/",
+      "name": "Vexels",
+      "description": "Tasarımlarınızı hızlandırmak için ücretsiz şablonlara ulaşabilirsiniz.",
+      "categories_slugs": [
+        "vektorel"
+      ],
+      "icon": "/images/logos/iso-vexels-black.png"
     }
   ]
 }
